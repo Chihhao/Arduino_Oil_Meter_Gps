@@ -34,9 +34,10 @@ https://github.com/mikalhart/TinyGPSPlus
 
 ## 原厰接線圖 (UT125同GSR125)  
 ![image](https://github.com/Chihhao/Arduino_Oil_Meter_Gps/blob/main/image/wiring2.png)  
+![image](https://github.com/Chihhao/Arduino_Oil_Meter_Gps/blob/main/image/4.png)  
+![image](https://github.com/Chihhao/Arduino_Oil_Meter_Gps/blob/main/image/5.png)  
 
 ## 照片  
 ![image](https://github.com/Chihhao/Arduino_Oil_Meter_Gps/blob/main/image/2.jpg)  
 ![image](https://github.com/Chihhao/Arduino_Oil_Meter_Gps/blob/main/image/3.jpg)  
-![image](https://github.com/Chihhao/Arduino_Oil_Meter_Gps/blob/main/image/4.png)  
-![image](https://github.com/Chihhao/Arduino_Oil_Meter_Gps/blob/main/image/5.png)  
+
