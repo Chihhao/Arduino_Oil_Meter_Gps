@@ -1,9 +1,9 @@
 # Arduino_Oil_Meter_Gps (機車儀錶板)  
 ## 連接原本的油量偵測電阻 (滿油10Ω，沒油100Ω)  
-## 使用 NEO-7N GPS模組取得速度與現在時間  
+## 使用 NEO-7N GPS 模組取得速度與現在時間  
  
-原厰的儀表損壞，換新太貴，發揮maker精神DIY！  
-機車車種：(2006)SIZUKI GSR125  
+原厰的儀表損壞，換新太貴，發揮Maker精神！  
+機車車種：(2006) SIZUKI GSR125  
 
 ## 成品如下  
 ![image](https://github.com/Chihhao/Arduino_Oil_Meter_Gps/blob/main/image/1.jpg)
@@ -32,7 +32,7 @@ https://github.com/mikalhart/TinyGPSPlus
 ## Wiring  
 ![image](https://github.com/Chihhao/Arduino_Oil_Meter_Gps/blob/main/image/wiring.png)  
 
-## 原厰接線圖  (UT125同GSR125)
+## 原厰接線圖 (UT125同GSR125)  
 ![image](https://github.com/Chihhao/Arduino_Oil_Meter_Gps/blob/main/image/wiring2.png)  
 
 ## 照片  
