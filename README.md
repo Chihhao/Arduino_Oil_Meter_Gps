@@ -29,9 +29,14 @@ https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library
 https://github.com/SodaqMoja/Sodaq_DS3231  
 https://github.com/mikalhart/TinyGPSPlus  
 
+## Wiring  
+![image](https://github.com/Chihhao/Arduino_Oil_Meter_Gps/blob/main/image/wiring.png)  
+
+## 原厰接線圖  (UT125同GSR125)
+![image](https://github.com/Chihhao/Arduino_Oil_Meter_Gps/blob/main/image/wiring2.png)  
+
 ## 照片  
 ![image](https://github.com/Chihhao/Arduino_Oil_Meter_Gps/blob/main/image/2.jpg)  
 ![image](https://github.com/Chihhao/Arduino_Oil_Meter_Gps/blob/main/image/3.jpg)  
 ![image](https://github.com/Chihhao/Arduino_Oil_Meter_Gps/blob/main/image/4.jpg)  
 ![image](https://github.com/Chihhao/Arduino_Oil_Meter_Gps/blob/main/image/5.jpg)  
-![image](https://github.com/Chihhao/Arduino_Oil_Meter_Gps/blob/main/image/wiring.png)  
