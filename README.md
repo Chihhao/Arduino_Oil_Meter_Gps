@@ -8,6 +8,12 @@
 ## 成品如下  
 ![image](https://github.com/Chihhao/Arduino_Oil_Meter_Gps/blob/main/image/1.jpg)
 
+## 功能  
+1. 現在時間 (來自DS3231)(GPS校正)  
+2. 速度顯示 (來自GPS)  
+3. 電壓顯示 (利用電阻分壓，量測機車電瓶電壓)  
+4. 油量顯示 (利用原厰的油量計)  
+
 ## 材料
 (1) Arduino Pro Mini  
 (2) LCD2004  
